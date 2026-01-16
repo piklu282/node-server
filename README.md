@@ -1,7 +1,7 @@
  http://localhost:3000
 
- localhost:3000/home
+ http://localhost:3000/home
 
-localhost:3000/about
+http://localhost:3000/about
 
-localhost:3000/contact
+http://localhost:3000/contact
